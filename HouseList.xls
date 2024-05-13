@@ -1,0 +1,126 @@
+Agency,Price,Bedrooms,Bathrooms,Sqft,Price_Per_Sqft,Address,Status
+Douglas Elliman Real Estate,"$185,000",— Bd,1 Ba,500 Sqft,$370/Sqft,"1250 Ocean Pkwy #1N, Brooklyn, NY 11230  -  For Sale",NEW 3 HOURS
+Douglas Elliman Real Estate,"$599,000",1 Bd,1 Ba,745 Sqft,$804/Sqft,"960 Sterling Pl #3B, Brooklyn, NY 11213  -  For Sale",NEW 6 HOURS
+Douglas Elliman Real Estate,"$850,000",1 Bd,1 Ba,715 Sqft,"$1,189/Sqft","333 Pearl St #8M, New York, NY 10038  -  For Sale",NEW 8 HOURS
+Akam Sales & Brokerage Inc,"$925,000",1 Bd,2 Ba,718 Sqft,"$1,288/Sqft","124 E 79th St #7-A, New York, NY 10075  -  For Sale",NEW 16 HOURS
+Nest Seekers LLC,"$6,495,000",6 Bd,5 Ba,"3,655 Sqft","$1,777/Sqft","70 Little West St #32-AB, New York, NY 10004  -  For Sale",NEW 16 HOURS
+Compass,"$2,995,000",4 Bd,2 Ba,"2,379 Sqft","$1,259/Sqft","25 E 86th St #1D, New York, NY 10028  -  For Sale",NEW 16 HOURS
+MANTUS REAL ESTATE,"$1,250,000",1 Bd,1 Ba,791 Sqft,"$1,580/Sqft","15 William St #46B, New York, NY 10005  -  For Sale",NEW 18 HOURS
+Compass,"$649,000",1 Bd,1 Ba,801 Sqft,$810/Sqft,"779 Riverside Dr #B64, New York, NY 10032  -  For Sale",NEW 19 HOURS
+Simple Real Estate,"$4,200,000",3 Bd,3 Ba,"1,734 Sqft","$2,422/Sqft","50 West St #43A, New York, NY 10006  -  For Sale",NEW 21 HOURS
+City Connections Realty Inc,"$410,000",1 Bd,1 Ba,425 Sqft,$965/Sqft,"48 E 132nd St #4-D, New York, NY 10037  -  For Sale",NEW 22 HOURS
+Compass,"$855,000",4 Bd,3 Ba,"2,288 Sqft",$374/Sqft,"914 Pine St, Brooklyn, NY 11208  -  For Sale",NEW 23 HOURS
+Nest Seekers LLC,"$2,500,000",2 Bd,3 Ba,"2,056 Sqft","$1,216/Sqft","341 13th St #GARDEN, Brooklyn, NY 11215  -  For Sale",NEW 24 HOURS
+Serhant LLC,"$1,550,000",1 Bd,1 Ba,784 Sqft,"$1,977/Sqft","251 W 14th St #3B, New York, NY 10011  -  For Sale",NEW 32 HOURS
+Corcoran Group,"$2,995,000",2 Bd,2 Ba,"1,887 Sqft","$1,587/Sqft","305 2nd Ave #318, New York, NY 10003  -  For Sale",NEW 35 HOURS
+Compass,"$2,572,000",2 Bd,2 Ba,"1,500 Sqft","$1,715/Sqft","27 W 72nd St #G2, New York, NY 10023  -  For Sale",NEW 35 HOURS
+Sothebys International Realty,"$1,700,000",2 Bd,2 Ba,"1,250 Sqft","$1,360/Sqft","136 E 64th St #8F, New York, NY 10065  -  For Sale",NEW 36 HOURS
+Sothebys International Realty,"$4,800,000",3 Bd,3 Ba,"2,218 Sqft","$2,164/Sqft","201 W 17th St #9A, New York, NY 10011  -  For Sale",NEW 36 HOURS
+Compass,"$1,295,000",2 Bd,2 Ba,"1,113 Sqft","$1,164/Sqft","250 S End Ave #PH1A, New York, NY 10280  -  For Sale",NEW 36 HOURS
+Compass,"$11,000,000",6 Bd,6 Ba,"3,662 Sqft","$3,004/Sqft","200 E 75th St #12A, New York, NY 10021  -  For Sale",NEW 36 HOURS
+Compass,"$899,000",1 Bd,1 Ba,"1,100 Sqft",$817/Sqft,"310 E 46th St #6G, New York, NY 10017  -  For Sale",NEW 36 HOURS
+Corcoran Sunshine Marketing Group,"$1,785,000",2 Bd,2 Ba,"1,090 Sqft","$1,638/Sqft","100 Claremont Ave #15E, New York, NY 10027  -  For Sale",NEW 37 HOURS
+Compass,"$1,485,000",1 Bd,2 Ba,"1,020 Sqft","$1,456/Sqft","30 W 61st St #27F, New York, NY 10023  -  For Sale",NEW 37 HOURS
+Douglas Elliman Real Estate,"$8,200,000",4 Bd,4 Ba,"2,621 Sqft","$3,129/Sqft","15 Leonard St #6, New York, NY 10013  -  For Sale",NEW 37 HOURS
+COLDWELL BANKER RELIABLE REAL ESTATE NYC,"$475,000",— Bd,1 Ba,300 Sqft,"$1,583/Sqft","405 W 23rd St #4-D, New York, NY 10011  -  For Sale",NEW 37 HOURS
+Corcoran Group,"$3,000,000",3 Bd,3 Ba,"1,710 Sqft","$1,754/Sqft","84 Congress St #PH, Brooklyn, NY 11201  -  For Sale",NEW 38 HOURS
+Corcoran Sunshine Marketing Group,"$4,825,000",2 Bd,3 Ba,"1,727 Sqft","$2,794/Sqft","520 5th Ave #71B, New York, NY 10036  -  For Sale",NEW 38 HOURS
+Corcoran Sunshine Marketing Group,"$4,400,000",2 Bd,3 Ba,"1,491 Sqft","$2,951/Sqft","520 5th Ave #71A, New York, NY 10036  -  For Sale",NEW 38 HOURS
+Sothebys International Realty,"$5,900,000",3 Bd,4 Ba,"2,300 Sqft","$2,565/Sqft","715 Park Ave #15DE, New York, NY 10021  -  For Sale",NEW 40 HOURS
+Corcoran Sunshine Marketing Group,"$5,950,000",3 Bd,4 Ba,"1,957 Sqft","$3,040/Sqft","520 5th Ave #67A, New York, NY 10036  -  For Sale",NEW 38 HOURS
+The Agency Brokerage,"$5,950,000",3 Bd,3 Ba,"2,910 Sqft","$2,045/Sqft","545 W 20th St #PH6/7B, New York, NY 10011  -  For Sale",NEW 38 HOURS
+Corcoran Group,"$3,850,000",5 Bd,4 Ba,"3,740 Sqft","$1,029/Sqft","425 Convent Ave, New York, NY 10031  -  For Sale",NEW 39 HOURS
+Douglas Elliman Real Estate,"$3,395,000",4 Bd,4 Ba,"3,115 Sqft","$1,090/Sqft","429 Kent Ave #TH17, Brooklyn, NY 11249  -  For Sale",NEW 39 HOURS
+Corcoran Sunshine Marketing Group,"$3,330,000",2 Bd,2 Ba,"1,278 Sqft","$2,606/Sqft","520 5th Ave #50A, New York, NY 10036  -  For Sale",NEW 38 HOURS
+Corcoran Sunshine Marketing Group,"$3,225,000",1 Bd,2 Ba,"1,255 Sqft","$2,570/Sqft","520 5th Ave #67B, New York, NY 10036  -  For Sale",NEW 38 HOURS
+Douglas Elliman Real Estate,"$2,500,000",2 Bd,3 Ba,"1,136 Sqft","$2,201/Sqft","215 W 28th St #9C, New York, NY 10001  -  For Sale",NEW 38 HOURS
+Corcoran Sunshine Marketing Group,"$2,400,000",1 Bd,2 Ba,"1,072 Sqft","$2,239/Sqft","520 5th Ave #50C, New York, NY 10036  -  For Sale",NEW 38 HOURS
+Compass,"$2,300,000",— Bd,2 Ba,"1,350 Sqft","$1,704/Sqft","47 Walker St #3A, New York, NY 10013  -  For Sale",NEW 38 HOURS
+Corcoran Sunshine Marketing Group,"$2,010,000",1 Bd,2 Ba,808 Sqft,"$2,488/Sqft","520 5th Ave #56B, New York, NY 10036  -  For Sale",NEW 38 HOURS
+Corcoran Sunshine Marketing Group,"$1,960,000",1 Bd,2 Ba,808 Sqft,"$2,426/Sqft","520 5th Ave #51B, New York, NY 10036  -  For Sale",NEW 38 HOURS
+Brown Harris Stevens Residential Sales LLC,"$1,775,000",2 Bd,2 Ba,"1,300 Sqft","$1,365/Sqft","300 E 40th St #10K, New York, NY 10016  -  For Sale",NEW 40 HOURS
+Corcoran Sunshine Marketing Group,"$1,750,000",1 Bd,2 Ba,740 Sqft,"$2,365/Sqft","520 5th Ave #56D, New York, NY 10036  -  For Sale",NEW 38 HOURS
+Corcoran Group,"$1,750,000",2 Bd,2 Ba,"1,411 Sqft","$1,240/Sqft","75 Wall St #22O, New York, NY 10005  -  For Sale",NEW 39 HOURS
+Corcoran Sunshine Marketing Group,"$1,700,000",1 Bd,2 Ba,740 Sqft,"$2,297/Sqft","520 5th Ave #51D, New York, NY 10036  -  For Sale",NEW 38 HOURS
+Douglas Elliman Real Estate,"$1,690,000",1 Bd,2 Ba,716 Sqft,"$2,360/Sqft","200 E 20th St #8C, New York, NY 10003  -  For Sale",NEW 39 HOURS
+REAVIS PARTNERS LLC,"$1,425,000",2 Bd,3 Ba,"1,716 Sqft",$830/Sqft,"229 Hawthorne St #1-A, Brooklyn, NY 11225  -  For Sale",NEW 38 HOURS
+Compass,"$949,000",1 Bd,2 Ba,646 Sqft,"$1,469/Sqft","107 Ave A #2R, New York, NY 10009  -  For Sale",NEW 40 HOURS
+Corcoran Group,"$925,000",2 Bd,2 Ba,"1,203 Sqft",$769/Sqft,"2257 Adam Clayton Powell Jr Blvd #3B, New York, NY 10027",NEW 39 HOURS
+Corcoran Sunshine Marketing Group,"$9,350,000",3 Bd,4 Ba,"2,619 Sqft","$3,570/Sqft","520 5th Ave #PH78, New York, NY 10036  -  For Sale",NEW 38 HOURS
+Compass,"$707,875",— Bd,1 Ba,809 Sqft,$875/Sqft,"105 Hudson St #404405, New York, NY 10013  -  For Sale",NEW 40 HOURS
+REAVIS PARTNERS LLC,"$4,250,000",3 Bd,4 Ba,"2,316 Sqft","$1,835/Sqft","128 E 28th St #PH-A, New York, NY 10016  -  For Sale",NEW 2 DAYS
+Compass,"$3,195,000",3 Bd,3 Ba,"1,800 Sqft","$1,775/Sqft","461 W 22nd St #C, New York, NY 10011  -  For Sale",NEW 2 DAYS
+Compass,"$6,997,500",3 Bd,4 Ba,"2,280 Sqft","$3,069/Sqft","111 Murray St #35W, New York, NY 10007  -  For Sale",NEW 2 DAYS
+Corcoran Group,"$2,950,000",3 Bd,3 Ba,"2,500 Sqft","$1,180/Sqft","277 W End Ave #14C, New York, NY 10023  -  For Sale",NEW 2 DAYS
+Compass,"$2,899,000",6 Bd,5 Ba,"3,731 Sqft",$777/Sqft,"816 Lafayette Ave, Brooklyn, NY 11221  -  For Sale",NEW 2 DAYS
+Douglas Elliman Real Estate,"$2,850,000",2 Bd,3 Ba,"1,644 Sqft","$1,734/Sqft","140 E 63rd St #5E, New York, NY 10065  -  For Sale",NEW 2 DAYS
+Douglas Elliman Real Estate,"$2,650,000",2 Bd,2 Ba,"1,314 Sqft","$2,017/Sqft","62 W 62nd St #26B, New York, NY 10023  -  For Sale",NEW 2 DAYS
+William Raveis New York City LLC,"$2,450,000",4 Bd,3 Ba,"2,000 Sqft","$1,225/Sqft","400 E 77th St #11-KL, New York, NY 10075  -  For Sale",NEW 2 DAYS
+Corcoran Group,"$2,300,000",2 Bd,2 Ba,"1,329 Sqft","$1,731/Sqft","10 W End Ave #19C, New York, NY 10023  -  For Sale",NEW 2 DAYS
+Corcoran Group,"$2,250,000",3 Bd,3 Ba,"1,655 Sqft","$1,360/Sqft","695 Degraw St #1, Brooklyn, NY 11217  -  For Sale",NEW 2 DAYS
+REAVIS PARTNERS LLC,"$2,195,000",2 Bd,2 Ba,"1,292 Sqft","$1,699/Sqft","128 E 28th St #6-A, New York, NY 10016  -  For Sale",NEW 2 DAYS
+Brick Real Estate LLC,"$1,900,000",9 Bd,3 Ba,"3,120 Sqft",$609/Sqft,"176 Kingsland Ave, Brooklyn, NY 11222  -  For Sale",NEW 2 DAYS
+Brown Harris Stevens Residential Sales LLC,"$1,750,000",2 Bd,1 Ba,"1,027 Sqft","$1,704/Sqft","62 E 1st St #4S, New York, NY 10003  -  For Sale",NEW 2 DAYS
+Brown Harris Stevens Residential Sales LLC,"$1,650,000",1 Bd,1 Ba,955 Sqft,"$1,728/Sqft","252 7th Ave #10S, New York, NY 10001  -  For Sale",NEW 2 DAYS
+Compass,"$1,595,000",2 Bd,2 Ba,"1,069 Sqft","$1,492/Sqft","476 Union Ave #5A, Brooklyn, NY 11211  -  For Sale",NEW 2 DAYS
+Douglas Elliman Real Estate,"$1,399,000",2 Bd,2 Ba,106 Sqft,"$13,198/Sqft","450 Grand Ave #4C, Brooklyn, NY 11238  -  For Sale",NEW 2 DAYS
+Douglas Elliman Real Estate,"$1,075,000",3 Bd,2 Ba,"1,282 Sqft",$839/Sqft,"406 Midwood St #GARDEN, Brooklyn, NY 11225  -  For Sale",NEW 2 DAYS
+Corcoran Group,"$1,049,000",1 Bd,1 Ba,900 Sqft,"$1,166/Sqft","1600 Broadway #21A, New York, NY 10019  -  For Sale",NEW 2 DAYS
+Douglas Elliman Real Estate,"$995,000",1 Bd,1 Ba,575 Sqft,"$1,730/Sqft","234 W 20th St #2A, New York, NY 10011  -  For Sale",NEW 2 DAYS
+Serhant LLC,"$899,000",2 Bd,2 Ba,929 Sqft,$968/Sqft,"637 Madison St #1B, Brooklyn, NY 11221  -  For Sale",NEW 2 DAYS
+Brown Harris Stevens Brooklyn LLC,"$895,000",2 Bd,1 Ba,900 Sqft,$994/Sqft,"210 Congress St #4E, Brooklyn, NY 11201  -  For Sale",NEW 2 DAYS
+Revived Residential,"$895,000",3 Bd,3 Ba,"1,079 Sqft",$829/Sqft,"491 Monroe St #3B, Brooklyn, NY 11221  -  For Sale",NEW 2 DAYS
+Corcoran Group,"$9,250,000",3 Bd,2 Ba,"2,221 Sqft","$4,165/Sqft","25 Central Park W #7Q, New York, NY 10023  -  For Sale",NEW 2 DAYS
+Brown Harris Stevens Residential Sales LLC,"$775,000",1 Bd,1 Ba,850 Sqft,$912/Sqft,"336 W End Ave #10E, New York, NY 10023  -  For Sale",NEW 2 DAYS
+LoHo Realty Inc,"$635,000",1 Bd,1 Ba,800 Sqft,$794/Sqft,"577 Grand St #F503, New York, NY 10002  -  For Sale",NEW 2 DAYS
+Douglas Elliman Real Estate,"$535,000",1 Bd,1 Ba,590 Sqft,$907/Sqft,"406 Midwood St #PHA, Brooklyn, NY 11225  -  For Sale",NEW 2 DAYS
+Serhant LLC,"$1,785,000",2 Bd,3 Ba,"1,250 Sqft","$1,428/Sqft","171 E 84th St #4B, New York, NY 10028  -  For Sale",NEW 41 HOURS
+Compass,"$780,300",— Bd,1 Ba,918 Sqft,$850/Sqft,"105 Hudson St #400401, New York, NY 10013  -  For Sale",NEW 41 HOURS
+Brown Harris Stevens Residential Sales LLC,"$12,000,000",3 Bd,3 Ba,"2,300 Sqft","$5,217/Sqft","151 Central Park W #11N, New York, NY 10023  -  For Sale",NEW 42 HOURS
+Compass,"$1,250,000",2 Bd,1 Ba,"1,200 Sqft","$1,042/Sqft","180 W End Ave #21A, New York, NY 10023  -  For Sale",NEW 42 HOURS
+Corcoran Group,"$2,950,000",5 Bd,4 Ba,"3,460 Sqft",$853/Sqft,"395 Clermont Ave, Brooklyn, NY 11238  -  For Sale",NEW 42 HOURS
+Serhant LLC,"$1,650,000",2 Bd,2 Ba,"1,141 Sqft","$1,446/Sqft","533 E 12th St #2A, New York, NY 10009  -  For Sale",NEW 42 HOURS
+Compass,"$16,995,000",4 Bd,6 Ba,"5,336 Sqft","$3,185/Sqft","42 Barrow St, New York, NY 10014  -  For Sale",NEW 42 HOURS
+Compass,"$2,295,000",2 Bd,3 Ba,"1,746 Sqft","$1,314/Sqft","116 W 22nd St #3, New York, NY 10011  -  For Sale",NEW 43 HOURS
+Compass,"$2,375,000",2 Bd,3 Ba,"1,318 Sqft","$1,802/Sqft","400 E 67th St #7B, New York, NY 10065  -  For Sale",NEW 43 HOURS
+Corcoran Group,"$2,650,000",3 Bd,3 Ba,"2,300 Sqft","$1,152/Sqft","30 E 65th St #6E7E, New York, NY 10065  -  For Sale",NEW 43 HOURS
+Bond New York Properties LLC,"$925,000",1 Bd,1 Ba,645 Sqft,"$1,434/Sqft","308 E 38th St #5F, New York, NY 10016  -  For Sale",NEW 44 HOURS
+Serhant LLC,"$7,950,000",3 Bd,4 Ba,"2,356 Sqft","$3,374/Sqft","165 Charles St #26, New York, NY 10014  -  For Sale",NEW 44 HOURS
+Corcoran Group,"$5,995,000",7 Bd,7 Ba,"5,600 Sqft","$1,071/Sqft","16 8th Ave, Brooklyn, NY 11217  -  For Sale",NEW 44 HOURS
+Sothebys International Realty,"$975,000",1 Bd,1 Ba,712 Sqft,"$1,369/Sqft","429 Kent Ave #232, Brooklyn, NY 11249  -  For Sale",NEW 44 HOURS
+Corcoran Group,"$1,350,000",3 Bd,3 Ba,"1,637 Sqft",$825/Sqft,"545 Lexington Ave #2, Brooklyn, NY 11221  -  For Sale",NEW 44 HOURS
+R New York,"$1,700,000",2 Bd,2 Ba,"1,292 Sqft","$1,316/Sqft","120 Riverside Blvd #10-L, New York, NY 10069  -  For Sale",NEW 44 HOURS
+Compass,"$2,135,000",2 Bd,2 Ba,"1,260 Sqft","$1,694/Sqft","207 N 8th St #3A, Brooklyn, NY 11211  -  For Sale",NEW 44 HOURS
+Corcoran Group,"$5,500,000",3 Bd,4 Ba,"2,488 Sqft","$2,211/Sqft","482 Greenwich St #4TH, New York, NY 10013  -  For Sale",NEW 45 HOURS
+Douglas Elliman Real Estate,"$18,995,000",6 Bd,6 Ba,"9,000 Sqft","$2,111/Sqft","297 Hicks St, Brooklyn, NY 11201  -  For Sale",NEW 45 HOURS
+Compass,"$2,150,000",1 Bd,3 Ba,"3,000 Sqft",$717/Sqft,"82 Suydam St #RETAIL, Brooklyn, NY 11221  -  For Sale",NEW 45 HOURS
+Corcoran Group,"$775,000",1 Bd,1 Ba,505 Sqft,"$1,535/Sqft","27-09 40th Ave #3I, New York City, NY 11101  -  For Sale",NEW 45 HOURS
+Corcoran Group,"$1,160,000",2 Bd,2 Ba,772 Sqft,"$1,503/Sqft","27-09 40th Ave #3C, New York City, NY 11101  -  For Sale",NEW 45 HOURS
+Corcoran Group,"$675,000",— Bd,1 Ba,408 Sqft,"$1,654/Sqft","27-09 40th Ave #4G, New York City, NY 11101  -  For Sale",NEW 45 HOURS
+Maxwell Jacobs Inc,"$4,995,000",4 Bd,4 Ba,"3,041 Sqft","$1,643/Sqft","180 E 93rd St #2, New York, NY 10128  -  For Sale",NEW 2 DAYS
+Compass,"$4,500,000",3 Bd,3 Ba,"1,770 Sqft","$2,542/Sqft","404 Park Ave S #10D, New York, NY 10016  -  For Sale",NEW 45 HOURS
+Coldwell Banker Warburg,"$6,250,000",2 Bd,3 Ba,"1,591 Sqft","$3,928/Sqft","1 Central Park W #25C, New York, NY 10023  -  For Sale",NEW 46 HOURS
+Douglas Elliman Real Estate,"$2,775,000",2 Bd,2 Ba,"1,535 Sqft","$1,808/Sqft","139 E 23rd St #PH2, New York, NY 10010  -  For Sale",NEW 2 DAYS
+Compass,"$2,750,000",3 Bd,3 Ba,"2,300 Sqft","$1,196/Sqft","440 W End Ave #8B, New York, NY 10024  -  For Sale",NEW 2 DAYS
+Compass,"$2,599,000",4 Bd,4 Ba,"2,640 Sqft","91 81st St, Brooklyn, NY 11209  -  For Sale",NEW 2 DAYS,OPEN 4/28
+Serhant LLC,"$1,900,000",1 Bd,1 Ba,802 Sqft,"$2,369/Sqft","570 Broome St #10A, New York, NY 10013  -  For Sale",NEW 2 DAYS
+Douglas Elliman Real Estate,"$1,875,000",2 Bd,2 Ba,"1,108 Sqft","$1,692/Sqft","30 W 61st St #19D, New York, NY 10023  -  For Sale",NEW 2 DAYS
+Brown Harris Stevens Residential Sales LLC,"$1,495,000",1 Bd,2 Ba,836 Sqft,"$1,788/Sqft","50 Riverside Blvd #3R, New York, NY 10069  -  For Sale",NEW 45 HOURS
+Compass,"$1,450,000",6 Bd,4 Ba,"2,800 Sqft",$518/Sqft,"575 E 28th St, Brooklyn, NY 11210  -  For Sale",NEW 46 HOURS
+Douglas Elliman Real Estate,"$1,450,000",2 Bd,2 Ba,"1,058 Sqft","$1,371/Sqft","31 N Elliott Pl #B, Brooklyn, NY 11205  -  For Sale",NEW 2 DAYS
+Douglas Elliman Real Estate,"$1,375,000",2 Bd,2 Ba,"1,058 Sqft","$1,300/Sqft","31 N Elliott Pl #C, Brooklyn, NY 11205  -  For Sale",NEW 2 DAYS
+Brown Harris Stevens Residential Sales LLC,"$1,275,000",1 Bd,2 Ba,956 Sqft,"$1,334/Sqft","155 W 68th St #2002, New York, NY 10023  -  For Sale",NEW 2 DAYS
+Brown Harris Stevens Residential Sales LLC,"$1,239,000",3 Bd,2 Ba,"2,100 Sqft",$590/Sqft,"575 Park Ave #808/809, New York, NY 10065  -  For Sale",NEW 47 HOURS
+Corcoran Group,"$1,185,000",2 Bd,2 Ba,"1,063 Sqft","$1,115/Sqft","133 Water St #10B, Brooklyn, NY 11201  -  For Sale",NEW 2 DAYS
+Compass,"$1,050,000",1 Bd,1 Ba,755 Sqft,"$1,391/Sqft","100 Jay St #4H, Brooklyn, NY 11201  -  For Sale",NEW 46 HOURS
+Douglas Elliman Real Estate,"$999,000",2 Bd,2 Ba,984 Sqft,"$1,015/Sqft","242 E 25th St #9A, New York, NY 10010  -  For Sale",NEW 2 DAYS
+Corcoran Group,"$925,000",1 Bd,1 Ba,655 Sqft,"$1,412/Sqft","27-09 40th Ave #3J, New York City, NY 11101  -  For Sale",NEW 45 HOURS
+Compass,"$895,000",2 Bd,2 Ba,"1,126 Sqft",$795/Sqft,"372 Dekalb Ave #1E, Brooklyn, NY 11205  -  For Sale",NEW 2 DAYS
+Brown Harris Stevens Residential Sales LLC,"$835,000",1 Bd,1 Ba,870 Sqft,$960/Sqft,"333 E 79th St #20V, New York, NY 10075  -  Coming Soon 4/25/24",COMING SOON
+Corcoran Group,"$825,000",1 Bd,1 Ba,548 Sqft,"$1,505/Sqft","27-09 40th Ave #3D, New York City, NY 11101  -  For Sale",NEW 45 HOURS
+SAMUEL REALTY GROUP LLC,"$675,000",1 Bd,1 Ba,750 Sqft,$900/Sqft,"440 E 79th St #14-G, New York, NY 10075  -  For Sale",NEW 2 DAYS
+Trump International Realty New York,"$675,000",— Bd,1 Ba,490 Sqft,"$1,378/Sqft","1 Central Park W #412, New York, NY 10023  -  For Sale",NEW 2 DAYS
+Compass,"$599,000",1 Bd,2 Ba,"1,099 Sqft",$545/Sqft,"555 Lenox Ave #1C, New York, NY 10037  -  For Sale",NEW 47 HOURS
+Douglas Elliman Real Estate,"$565,000",2 Bd,2 Ba,"1,200 Sqft",$471/Sqft,"3515 Henry Hudson Pkwy #7D, New York City, NY 10463",NEW 2 DAYS
+Douglas Elliman Real Estate,"$255,000",2 Bd,1 Ba,880 Sqft,$290/Sqft,"5610 Netherland Ave #1A, New York City, NY 10471  -  For Sale",NEW 2 DAYS
+The Agency Brokerage,"$20,000,000",— Bd,— Ba,"11,500 Sqft","$1,739/Sqft","22 E 10th St, New York, NY 10003  -  For Sale",NEW 2 DAYS
